@@ -6,19 +6,20 @@
 
 | Catalogue | URL |
 | --- | --- |
-| Darknet Home | [catalogpwwlccc5nyp3m3xng6pdx3rdcknul57x6raxwf4enpw3nymqd.onion](http://catalogpwwlccc5nyp3m3xng6pdx3rdcknul57x6raxwf4enpw3nymqd.onion) |
-| Dark Dir | [l7vh56hxm3t4tzy75nxzducszppgi45fyx2wy6chujxb2rhy7o5r62ad.onion](http://l7vh56hxm3t4tzy75nxzducszppgi45fyx2wy6chujxb2rhy7o5r62ad.onion) |
-| Shops Dir | [vxmua4uvg7vp5ssnvx5gexrr2nxso3wwvjwagdub67vcombj4kf4i4qd.onion](http://vxmua4uvg7vp5ssnvx5gexrr2nxso3wwvjwagdub67vcombj4kf4i4qd.onion) |
-| Mega Links | [megalzwink435kangsseahebpbp3teedi4jjt64ne2g6d3oqy3qlweid.onion](http://megalzwink435kangsseahebpbp3teedi4jjt64ne2g6d3oqy3qlweid.onion) |
-| Hidden Links | [wclekwrf2aclunlmuikf2bopusjfv66jlhwtgbiycy5nw524r6ngioid.onion](http://wclekwrf2aclunlmuikf2bopusjfv66jlhwtgbiycy5nw524r6ngioid.onion) |
-| Nexus | [nexusxg6rr5e2ue6gdjo6oassw36lsx5cx6y3r5ojneo53kynv3rqgyd.onion](http://nexusxg6rr5e2ue6gdjo6oassw36lsx5cx6y3r5ojneo53kynv3rqgyd.onion) |
+| Top Onions | [toponiibv4eo4pctlszgavni5ajzg7uvkd7e2xslkjmtcfqesjlsqpid.onion](http://toponiibv4eo4pctlszgavni5ajzg7uvkd7e2xslkjmtcfqesjlsqpid.onion) |
+| Tasty Onions | [tasty45wqqtzklo5pgu4hhbjhtadjhd4eetlujwdt57f5d4qgs5escid.onion](http://tasty45wqqtzklo5pgu4hhbjhtadjhd4eetlujwdt57f5d4qgs5escid.onion) |
+| Trusted Deep | [tdeeplzeeatosawhgis63gxvrpv2cotglhmmdj32mhkbxj7svxtxj3id.onion](http://tdeeplzeeatosawhgis63gxvrpv2cotglhmmdj32mhkbxj7svxtxj3id.onion) |
+| Link Dir | [sz5h6tiqkdkfl55qa3kcxgzck3xeffo6cso7sjpc7hc7sr3vghdyicqd.onion](http://sz5h6tiqkdkfl55qa3kcxgzck3xeffo6cso7sjpc7hc7sr3vghdyicqd.onion) |
+| Onion Dir | [77zodwafmbxul7bgilvh67mrh6fzxaokuwkmwl4csqkgrc2no4otomid.onion](http://77zodwafmbxul7bgilvh67mrh6fzxaokuwkmwl4csqkgrc2no4otomid.onion) |
+| Darknet Trusted Links | [l7fibla2drsdxdnbogeggvfukjjbus2wjimbtfj7en7e2jgwhqlquaqd.onion](http://l7fibla2drsdxdnbogeggvfukjjbus2wjimbtfj7en7e2jgwhqlquaqd.onion) |
 | Tor Node | [tornode3tnrtzgqwd3vmxdumucddqfd6zk7icu4wzdwxo5c3zn2xqfqd.onion](http://tornode3tnrtzgqwd3vmxdumucddqfd6zk7icu4wzdwxo5c3zn2xqfqd.onion) |
-| Tor Links | [torlinkv7cft5zhegrokjrxj2st4hcimgidaxdmcmdpcrnwfxrr2zxqd.onion](http://torlinkv7cft5zhegrokjrxj2st4hcimgidaxdmcmdpcrnwfxrr2zxqd.onion) |
+
 
 ## Search engines
 
 | Search Engine | URL |
 | --- | --- |
+| OnionWay | [oniwayzz74cv2puhsgx4dpjwieww4wdphsydqvf5q7eyz4myjvyw26ad.onion](http://oniwayzz74cv2puhsgx4dpjwieww4wdphsydqvf5q7eyz4myjvyw26ad.onion) |
 | FindTor | [findtorroveq5wdnipkaojfpqulxnkhblymc7aramjzajcvpptd4rjqd.onion](http://findtorroveq5wdnipkaojfpqulxnkhblymc7aramjzajcvpptd4rjqd.onion) |
 | Torch | [torchdeedp3i2jigzjdmfpn5ttjhthh5wbmda2rr3jvqjg5p77c54dqd.onion](http://torchdeedp3i2jigzjdmfpn5ttjhthh5wbmda2rr3jvqjg5p77c54dqd.onion) |
 | TorDex | [tordexu73joywapk2txdr54jed4imqledpcvcuf75qsas2gwdgksvnyd.onion](http://tordexu73joywapk2txdr54jed4imqledpcvcuf75qsas2gwdgksvnyd.onion) |
@@ -40,8 +41,8 @@
 
 | Wiki | URL |
 | --- | --- |
-| Hidden Wiki | [wiki2zkamfya6mnyvk4aom4yjyi2kwsz7et3e4wnikcrypqv63rsskid.onion](http://wiki2zkamfya6mnyvk4aom4yjyi2kwsz7et3e4wnikcrypqv63rsskid.onion) |
-| Bitcoin Wiki | [bitcoin.it](https://bitcoin.it) |
+| Hidden Wiki | [wikiw2godl6vm5amb4sij47rwynnrmqenwddykzt3fwpbx6p34sgb7yd.onion](http://wikiw2godl6vm5amb4sij47rwynnrmqenwddykzt3fwpbx6p34sgb7yd.onion) |
+
 
 ## Bitcoin
 
@@ -118,22 +119,19 @@
 
 | Market | URL |
 | --- | --- |
-| ASAP | [asap2u4pvplnkzl7ecle45wajojnftja45wvovl3jrvhangeyq67ziid.onion](http://asap2u4pvplnkzl7ecle45wajojnftja45wvovl3jrvhangeyq67ziid.onion) |
-| Apple World | [olknlw3zybrtfonomv72prkx3zfjxq5vihpw7mzhmu5l3srtdw5btfqd.onion](http://olknlw3zybrtfonomv72prkx3zfjxq5vihpw7mzhmu5l3srtdw5btfqd.onion) |
-| Aurora | [aurora7t7en7racqbytspft6myxds25hnczjk56tvqev2bziir74t4yd.onion](http://aurora7t7en7racqbytspft6myxds25hnczjk56tvqev2bziir74t4yd.onion) |
-| Buy Real Money | [buyreal2xipzjhjfhyztle35dknfexgqrpq4dmzvkc575kzi3vr6bmid.onion](http://buyreal2xipzjhjfhyztle35dknfexgqrpq4dmzvkc575kzi3vr6bmid.onion) |
-| Dark0de | [darkoddrkj3gqz7ke7nyjfkh7o72hlvr44uz5zl2xrapna4tribuorqd.onion](http://darkoddrkj3gqz7ke7nyjfkh7o72hlvr44uz5zl2xrapna4tribuorqd.onion) |
+| Bitcards | [bitccsolrhxt3o4coovvclk6vhjril5xjbwt7lcwlezkhrcqdtyoc6yd.onion](http://bitccsolrhxt3o4coovvclk6vhjril5xjbwt7lcwlezkhrcqdtyoc6yd.onion) |
+| Goldman Financial Services | [goldm6qrdsaw6jk6bixvhsikhpydthdcy7arwailr6yjuakqa6m7hsid.onion](http://goldm6qrdsaw6jk6bixvhsikhpydthdcy7arwailr6yjuakqa6m7hsid.onion) |
+| Light Money | [lmoneyu4apwxues2ahrh75oop333gsdqro67qj2vkgg3pl5bnc2zyyyd.onion](http://lmoneyu4apwxues2ahrh75oop333gsdqro67qj2vkgg3pl5bnc2zyyyd.onion) |
+| Buy Real Money | [rmoneyo373ukvfwqrnnobfedmi5vcvifvwgjg7kn3hq3oortktgrfjad.onion](http://rmoneyo373ukvfwqrnnobfedmi5vcvifvwgjg7kn3hq3oortktgrfjad.onion) |
+| LordPay | [lordpgjtif7h4autbzelhqvdnghuoyneevsq5uzr3ohbh3n356334qyd.onion](http://lordpgjtif7h4autbzelhqvdnghuoyneevsq5uzr3ohbh3n356334qyd.onion) |
 | DarkBay | [darkbayx7a4sosoo4hqvoljqelgkusjlrqmt237ls6hndbplmel55oad.onion](http://darkbayx7a4sosoo4hqvoljqelgkusjlrqmt237ls6hndbplmel55oad.onion) |
 | DarkFox | [57d5j6hfzfpsfev6c7f5ltney5xahudevvttfmw4lrtkt42iqdrkxmqd.onion](http://57d5j6hfzfpsfev6c7f5ltney5xahudevvttfmw4lrtkt42iqdrkxmqd.onion) |
 | Drugs Empire | [drugsednqhasbyoyg2oekzbnllbujro54zrogqbf3p6e7qflxti5eeqd.onion](http://drugsednqhasbyoyg2oekzbnllbujro54zrogqbf3p6e7qflxti5eeqd.onion) |
 | Hacked Databases | [hackedabm6ejvmh7xiiqdq3ptflorhdvjurhheqbovlu64xi3zbrlpad.onion](http://hackedabm6ejvmh7xiiqdq3ptflorhdvjurhheqbovlu64xi3zbrlpad.onion) |
 | Horizon | [wfhk7qy6ycihylvls7xrmlyp3elin3k6ezyee4ovp3oj2wudrhmhgwid.onion](http://wfhk7qy6ycihylvls7xrmlyp3elin3k6ezyee4ovp3oj2wudrhmhgwid.onion) |
-| Imperial | [shop6bpuax4uk53slpyt56bhl43f2cefpcejwyrbtvcfugujldt3eyqd.onion](http://shop6bpuax4uk53slpyt56bhl43f2cefpcejwyrbtvcfugujldt3eyqd.onion) |
-| PayPal World | [h56izbbvplxoedu7rnqyzgqkkxrriqhoq6kl4g3xx2mjwauxdpyuhlqd.onion](http://h56izbbvplxoedu7rnqyzgqkkxrriqhoq6kl4g3xx2mjwauxdpyuhlqd.onion) |
 | ToRReZ | [yxuy5oau7nugw4kpb4lclrqdbixp3wvc4iuiad23ebyp2q3gx7rtrgqd.onion](http://yxuy5oau7nugw4kpb4lclrqdbixp3wvc4iuiad23ebyp2q3gx7rtrgqd.onion) |
 | Top Money | [money76mmbh7dnuq6en3b6d7hmvm4fuolkser2ui7u46ib2utrjnw4ad.onion](http://money76mmbh7dnuq6en3b6d7hmvm4fuolkser2ui7u46ib2utrjnw4ad.onion) |
 | Tor Guns | [gunsiqvaicyzyq7xqm2c3xshl6pjegtxjf3m3ldms2fo52lqvrmvbyyd.onion](http://gunsiqvaicyzyq7xqm2c3xshl6pjegtxjf3m3ldms2fo52lqvrmvbyyd.onion) |
-| TorBuy | [torbuyjiwzgtnmieg62urzu3mfjzv35dt4ghpal3qkugzrq74urt45yd.onion](http://torbuyjiwzgtnmieg62urzu3mfjzv35dt4ghpal3qkugzrq74urt45yd.onion) |
 | Vice City | [vice2e3gr3pmaikukidllstulxvkb7a247gkguihzvyk3gqwdpolqead.onion](http://vice2e3gr3pmaikukidllstulxvkb7a247gkguihzvyk3gqwdpolqead.onion) |
 | WhiteHouse | [76p5k6gw25l5jpy7ombo2m7gt4zppowbz47sizvlzkigvnyhhc26znyd.onion](http://76p5k6gw25l5jpy7ombo2m7gt4zppowbz47sizvlzkigvnyhhc26znyd.onion) |
 
@@ -142,9 +140,8 @@
 | Other | URL |
 | --- | --- |
 | Beneath VT | [bvten5svsltfpxrxl72ukqxixwo2m5ek5svmcxgrmkta4tbmiemuibid.onion](http://bvten5svsltfpxrxl72ukqxixwo2m5ek5svmcxgrmkta4tbmiemuibid.onion) |
-| EscrowLab | [escrow4ywsfqnccvrikzdkk7dky35inn7uxb3qhid5uvcklsocwdvhid.onion](http://escrow4ywsfqnccvrikzdkk7dky35inn7uxb3qhid5uvcklsocwdvhid.onion) |
+| SafePay | [spbtcxrtqq2d36tjdzjrycmjnffqfm4tdvlusonsfttvyowg7g7l3xqd.onion](http://spbtcxrtqq2d36tjdzjrycmjnffqfm4tdvlusonsfttvyowg7g7l3xqd.onion) |
 | EtherCalc | [bcton4zbvzauoufghypxhuslbfcch44akcn3geedhf4nk2vlqdb25ryd.onion](http://bcton4zbvzauoufghypxhuslbfcch44akcn3geedhf4nk2vlqdb25ryd.onion) |
-| Hidden Reviews | [u5lyidiw4lpkonoctpqzxgyk6xop7w7w3oho4dzzsi272rwnjhyx7ayd.onion](http://u5lyidiw4lpkonoctpqzxgyk6xop7w7w3oho4dzzsi272rwnjhyx7ayd.onion) |
 | Privacy International | [privacy2ws3ora5p4qpzptqr32qm54gf5ifyzvo5bhl7bb254c6nbiyd.onion](http://privacy2ws3ora5p4qpzptqr32qm54gf5ifyzvo5bhl7bb254c6nbiyd.onion) |
 | Satanic Ceremony | [ho2hua2hfduv6f7hcbzdj2e6qdn4szgyy2jjnx545v4z3epq7uyrscid.onion](http://ho2hua2hfduv6f7hcbzdj2e6qdn4szgyy2jjnx545v4z3epq7uyrscid.onion) |
 
